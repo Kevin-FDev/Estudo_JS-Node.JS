@@ -7,6 +7,8 @@
 // // console.log(desaf);
 // // console.log(desaf.length);
 
+///////////////////////////////////////
+
 
 // // let desaf = [0, 1, 2, 3, 4, 5];
 // // console.log (desaf);
@@ -15,6 +17,7 @@
 
 // // console.log(desaf);
 
+//////////////////////////////////////////////////
 
 // let meuarray = [];
 
